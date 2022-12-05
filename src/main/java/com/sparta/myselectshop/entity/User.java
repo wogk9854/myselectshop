@@ -1,6 +1,5 @@
 package com.sparta.myselectshop.entity;
 
-
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
@@ -36,4 +35,5 @@ public class User {
         this.email = email;
         this.role = role;
     }
+
 }
